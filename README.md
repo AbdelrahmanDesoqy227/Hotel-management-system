@@ -1,1 +1,1 @@
-# Hotel-management-system
+# java-project-with-mysql
